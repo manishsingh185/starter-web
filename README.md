@@ -5,3 +5,7 @@ This is git project
 ## Purpose
 
 Sample website with plenty of files for demos
+## Git Comparison
+Adding git comparisons lecture
+
+Modified it again for testing
